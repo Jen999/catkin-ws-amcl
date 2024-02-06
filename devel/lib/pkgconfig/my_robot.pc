@@ -1,4 +1,4 @@
-prefix=/home/tanlingjen/catkin_ws/devel
+prefix=/home/tanlingjen/catkin-ws-amcl/devel
 
 Name: my_robot
 Description: Description of my_robot

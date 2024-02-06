@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tanlingjen/catkin_ws/src
+CMAKE_SOURCE_DIR = /home/tanlingjen/catkin-ws-amcl/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tanlingjen/catkin_ws/build
+CMAKE_BINARY_DIR = /home/tanlingjen/catkin-ws-amcl/build
 
 # Utility rule file for ball_chaser_genpy.
 
@@ -63,10 +63,10 @@ ball_chaser/CMakeFiles/ball_chaser_genpy.dir/build: ball_chaser_genpy
 .PHONY : ball_chaser/CMakeFiles/ball_chaser_genpy.dir/build
 
 ball_chaser/CMakeFiles/ball_chaser_genpy.dir/clean:
-	cd /home/tanlingjen/catkin_ws/build/ball_chaser && $(CMAKE_COMMAND) -P CMakeFiles/ball_chaser_genpy.dir/cmake_clean.cmake
+	cd /home/tanlingjen/catkin-ws-amcl/build/ball_chaser && $(CMAKE_COMMAND) -P CMakeFiles/ball_chaser_genpy.dir/cmake_clean.cmake
 .PHONY : ball_chaser/CMakeFiles/ball_chaser_genpy.dir/clean
 
 ball_chaser/CMakeFiles/ball_chaser_genpy.dir/depend:
-	cd /home/tanlingjen/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tanlingjen/catkin_ws/src /home/tanlingjen/catkin_ws/src/ball_chaser /home/tanlingjen/catkin_ws/build /home/tanlingjen/catkin_ws/build/ball_chaser /home/tanlingjen/catkin_ws/build/ball_chaser/CMakeFiles/ball_chaser_genpy.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tanlingjen/catkin-ws-amcl/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tanlingjen/catkin-ws-amcl/src /home/tanlingjen/catkin-ws-amcl/src/ball_chaser /home/tanlingjen/catkin-ws-amcl/build /home/tanlingjen/catkin-ws-amcl/build/ball_chaser /home/tanlingjen/catkin-ws-amcl/build/ball_chaser/CMakeFiles/ball_chaser_genpy.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ball_chaser/CMakeFiles/ball_chaser_genpy.dir/depend
 

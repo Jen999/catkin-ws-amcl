@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/tanlingjen/catkin_ws/src/ball_chaser/src/process_image.cpp" "/home/tanlingjen/catkin_ws/build/ball_chaser/CMakeFiles/process_image.dir/src/process_image.cpp.o"
+  "/home/tanlingjen/catkin-ws-amcl/src/ball_chaser/src/process_image.cpp" "/home/tanlingjen/catkin-ws-amcl/build/ball_chaser/CMakeFiles/process_image.dir/src/process_image.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -17,10 +17,10 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/tanlingjen/catkin_ws/devel/include"
+  "/home/tanlingjen/catkin-ws-amcl/devel/include"
   "/opt/ros/melodic/include"
   "/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
-  "/home/tanlingjen/catkin_ws/src/ball_chaser/include"
+  "/home/tanlingjen/catkin-ws-amcl/src/ball_chaser/include"
   )
 
 # Targets to which this target links.

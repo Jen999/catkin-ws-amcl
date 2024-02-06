@@ -1,4 +1,4 @@
-prefix=/home/tanlingjen/catkin_ws/install
+prefix=/home/tanlingjen/catkin-ws-amcl/install
 
 Name: my_robot
 Description: Description of my_robot

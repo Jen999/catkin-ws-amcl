@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tanlingjen/catkin_ws/src
+CMAKE_SOURCE_DIR = /home/tanlingjen/catkin-ws-amcl/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tanlingjen/catkin_ws/build
+CMAKE_BINARY_DIR = /home/tanlingjen/catkin-ws-amcl/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -137,9 +137,9 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tanlingjen/catkin_ws/build/CMakeFiles /home/tanlingjen/catkin_ws/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tanlingjen/catkin-ws-amcl/build/CMakeFiles /home/tanlingjen/catkin-ws-amcl/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tanlingjen/catkin_ws/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tanlingjen/catkin-ws-amcl/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

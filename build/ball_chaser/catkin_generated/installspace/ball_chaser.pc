@@ -1,4 +1,4 @@
-prefix=/home/tanlingjen/catkin_ws/install
+prefix=/home/tanlingjen/catkin-ws-amcl/install
 
 Name: ball_chaser
 Description: Description of ball_chaser

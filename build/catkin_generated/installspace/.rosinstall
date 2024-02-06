@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/tanlingjen/catkin_ws/install/setup.sh
+    local-name: /home/tanlingjen/catkin-ws-amcl/install/setup.sh
