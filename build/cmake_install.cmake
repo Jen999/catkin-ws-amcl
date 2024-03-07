@@ -133,7 +133,6 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/tanlingjen/catkin-ws-amcl/build/gtest/cmake_install.cmake")
   include("/home/tanlingjen/catkin-ws-amcl/build/my_robot/cmake_install.cmake")
   include("/home/tanlingjen/catkin-ws-amcl/build/teleop_twist_keyboard/cmake_install.cmake")
-  include("/home/tanlingjen/catkin-ws-amcl/build/ball_chaser/cmake_install.cmake")
 
 endif()
 
