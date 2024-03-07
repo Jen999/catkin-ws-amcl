@@ -1,7 +1,7 @@
 ### Udacity Robotics Software Engineering Course
 ```
 cd src
-git clone https://github.com/ros-teleop/teleop_twist_keyboard
+git clone https://github.com/ros-teleop/teleop_twist_keyboard.git
 ```
 ```
 roslaunch my_robot world.launch
